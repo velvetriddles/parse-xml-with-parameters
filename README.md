@@ -29,7 +29,9 @@ go run .
 To run tests, execute the following command: 
 
 ```sh
-go run test -v
+go test -v 
 ```
+
+You can check the coverage of the tests in cover.html file
 
 
